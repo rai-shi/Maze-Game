@@ -1,5 +1,5 @@
 # Maze-Game
-A maze game developed with Unity. The project is developed to learn Unity fundamentals. The game contains a player, coins, and at later level turning coins, jumping coins, and an enemy that follows the player. Players have to collect the coins as much as he/she can and escape from the enemy within a certain level of time. 
+A maze game developed with Unity. The project is developed to learn Unity fundamentals. The game contains a player, coins, and at later level turning coins, jumping coins, and an enemy that follows the player. Players have to collect the coins as much as he/she can and escape from the enemy within a certain level of time. The project has Firebase connection. 
 
 #### Opening scene
 <img src="https://github.com/rai-shi/Maze-Game/blob/main/image/opening.png?raw=true" width="500" >
